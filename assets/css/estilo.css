@@ -1,0 +1,21 @@
+body{
+    background-color: #008043;
+    color: white;
+}
+header{
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.carta{
+    width: 120px;
+    position: relative;
+    margin-left: -60px;
+    left: 60px;
+}
+
+#cartasJugador, #cartasRival{
+height: 150px;
+}
